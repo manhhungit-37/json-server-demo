@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "images/1.png",
+      "name": "Fortune Sunflower Oil",
+      "price": 7.99,
+      "realPrice": 10,
+      "position": "gift"
+    },
+    {
+      "id": 2,
+      "img": "images/2.png",
+      "name": "Pepsi Soft Drink (2 Ltr)",
+      "price": 8,
+      "realPrice": 10,
+      "position": "offer"
+    },
+    {
+      "id": 3,
+      "img": "images/3.png",
+      "name": "Basmati Rise (5 Kg)",
+      "price": 11.99,
+      "realPrice": 15,
+      "position": "no"
+    },
+    {
+      "id": 4,
+      "img": "images/4.png",
+      "name": "Dogs Food (4 Kg)",
+      "price": 9,
+      "realPrice": 11,
+      "position": "offer"
+    },
+    {
+      "id": 5,
+      "img": "images/5.png",
+      "name": "Knorr Instant Soup (100 Gm)",
+      "price": 3,
+      "realPrice": 5,
+      "position": "offer"
+    },
+    {
+      "id": 6,
+      "img": "images/6.png",
+      "name": "Chings Noodles (75 Gm)",
+      "price": 5,
+      "realPrice": 8,
+      "position": "offer"
+    },
+    {
+      "id": 7,
+      "img": "images/7.png",
+      "name": "Lahsun Sev (150 Gm)",
+      "price": 3,
+      "realPrice": 5,
+      "position": "offer"
+    },
+    {
+      "id": 8,
+      "img": "images/8.png",
+      "name": "Premium Bake Rusk (300 Gm)",
+      "price": 5,
+      "realPrice": 7,
+      "position": "offer"
+    },
+    {
+      "id": 9,
+      "img": "images/9.png",
+      "name": "Fresh Spinach (Palak)",
+      "price": 2,
+      "realPrice": 3,
+      "position": "offer"
+    },
+    {
+      "id": 10,
+      "img": "images/10.png",
+      "name": "Fresh Mango Dasheri (1 Kg)",
+      "price": 5,
+      "realPrice": 8,
+      "position": "offer"
+    },
+    {
+      "id": 11,
+      "img": "images/11.png",
+      "name": "Fresh Apple Red (1 Kg)",
+      "price": 6,
+      "realPrice": 8,
+      "position": "gift"
+    },
+    {
+      "id": 12,
+      "img": "images/12.png",
+      "name": "Fresh Broccoli (500 Gm)",
+      "price": 4,
+      "realPrice": 6,
+      "position": "offer"
+    },
+    {
+      "id": 13,
+      "img": "images/13.png",
+      "name": "Mixed Fruit Juice (1 Ltr)",
+      "price": 3,
+      "realPrice": 4,
+      "position": "offer"
+    },
+    {
+      "id": 14,
+      "img": "images/14.png",
+      "name": "Prune Juice - Sunsweet (1 Ltr)",
+      "price": 4,
+      "realPrice": 5,
+      "position": "offer"
+    },
+    {
+      "id": 15,
+      "img": "images/15.png",
+      "name": "Coco Cola Zero Can (330 Ml)",
+      "price": 3,
+      "realPrice": 5,
+      "position": "gift"
+    },
+    {
+      "id": 16,
+      "img": "images/16.png",
+      "name": "Sprite Bottle (2 Ltr)",
+      "price": 3,
+      "realPrice": 4,
+      "position": "offer"
+    },
+    {
+      "name": "Zozo",
+      "price": "1",
+      "realPrice": "2",
+      "positon": "no",
+      "createdAt": 1624616223121,
+      "updatedAt": 1624616552389,
+      "id": 17,
+      "img": "images/17.png"
+    },
+    {
+      "name": "Zozo1",
+      "price": "1",
+      "realPrice": "2",
+      "positon": "no",
+      "createdAt": 1624618114971,
+      "updatedAt": 1624786004945,
+      "id": 18,
+      "img": "images/18.png"
+    }
+  ]
+}
