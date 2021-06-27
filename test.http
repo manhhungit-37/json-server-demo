@@ -1,0 +1,53 @@
+@base = http://localhost:3000/api/data
+
+# @name getAllData
+
+GET {{base}}
+
+###
+
+# @name addNewData
+POST {{base}}
+Content-Type: application/json
+
+{
+  "name": "Zozo1",
+  "price": "1",
+  "realPrice": "2",
+  "positon": "no"
+}
+
+###
+
+# @name updateData
+PATCH {{base}}/18
+Content-Type: application/json
+
+{
+  "img": "images/18.png"
+}
+
+###
+
+# @name DeleteData
+DELETE {{base}}/18
+
+###
+
+# @name filterData
+GET {{base}}?position=gift
+
+###
+
+# @name paginate
+GET {{base}}?_page=2&_limit=4
+
+###
+
+# @name sort
+GET {{base}}?_sort=price&_order=asc
+
+###
+
+# @name slice
+GET {{base}}?_start=10&_end=20
