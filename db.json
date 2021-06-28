@@ -1,12 +1,14 @@
 {
-  "data": [
+  "commodity": [
     {
       "id": 1,
       "img": "images/1.png",
       "name": "Fortune Sunflower Oil",
       "price": 7.99,
       "realPrice": 10,
-      "position": "gift"
+      "position": "gift",
+      "updatedAt": 1624895147680,
+      "createdAt": 1624895147680
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "name": "Pepsi Soft Drink (2 Ltr)",
       "price": 8,
       "realPrice": 10,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895157030,
+      "updatedAt": 1624895157030
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "name": "Basmati Rise (5 Kg)",
       "price": 11.99,
       "realPrice": 15,
-      "position": "no"
+      "position": "no",
+      "createdAt": 1624895162160,
+      "updatedAt": 1624895162160
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "name": "Dogs Food (4 Kg)",
       "price": 9,
       "realPrice": 11,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895167601,
+      "updatedAt": 1624895167601
     },
     {
       "id": 5,
@@ -38,7 +46,9 @@
       "name": "Knorr Instant Soup (100 Gm)",
       "price": 3,
       "realPrice": 5,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895172698,
+      "updatedAt": 1624895172698
     },
     {
       "id": 6,
@@ -46,7 +56,9 @@
       "name": "Chings Noodles (75 Gm)",
       "price": 5,
       "realPrice": 8,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895177453,
+      "updatedAt": 1624895177453
     },
     {
       "id": 7,
@@ -54,7 +66,9 @@
       "name": "Lahsun Sev (150 Gm)",
       "price": 3,
       "realPrice": 5,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895182523,
+      "updatedAt": 1624895182523
     },
     {
       "id": 8,
@@ -62,7 +76,9 @@
       "name": "Premium Bake Rusk (300 Gm)",
       "price": 5,
       "realPrice": 7,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895188091,
+      "updatedAt": 1624895188091
     },
     {
       "id": 9,
@@ -70,7 +86,9 @@
       "name": "Fresh Spinach (Palak)",
       "price": 2,
       "realPrice": 3,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895197449,
+      "updatedAt": 1624895197449
     },
     {
       "id": 10,
@@ -78,7 +96,9 @@
       "name": "Fresh Mango Dasheri (1 Kg)",
       "price": 5,
       "realPrice": 8,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895205652,
+      "updatedAt": 1624895205652
     },
     {
       "id": 11,
@@ -86,7 +106,9 @@
       "name": "Fresh Apple Red (1 Kg)",
       "price": 6,
       "realPrice": 8,
-      "position": "gift"
+      "position": "gift",
+      "createdAt": 1624895210425,
+      "updatedAt": 1624895210425
     },
     {
       "id": 12,
@@ -94,7 +116,9 @@
       "name": "Fresh Broccoli (500 Gm)",
       "price": 4,
       "realPrice": 6,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895215216,
+      "updatedAt": 1624895215216
     },
     {
       "id": 13,
@@ -102,7 +126,9 @@
       "name": "Mixed Fruit Juice (1 Ltr)",
       "price": 3,
       "realPrice": 4,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895220466,
+      "updatedAt": 1624895220466
     },
     {
       "id": 14,
@@ -110,7 +136,9 @@
       "name": "Prune Juice - Sunsweet (1 Ltr)",
       "price": 4,
       "realPrice": 5,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895225904,
+      "updatedAt": 1624895225904
     },
     {
       "id": 15,
@@ -118,7 +146,9 @@
       "name": "Coco Cola Zero Can (330 Ml)",
       "price": 3,
       "realPrice": 5,
-      "position": "gift"
+      "position": "gift",
+      "createdAt": 1624895231467,
+      "updatedAt": 1624895231467
     },
     {
       "id": 16,
@@ -126,27 +156,33 @@
       "name": "Sprite Bottle (2 Ltr)",
       "price": 3,
       "realPrice": 4,
-      "position": "offer"
+      "position": "offer",
+      "createdAt": 1624895236634,
+      "updatedAt": 1624895236634
+    }
+  ],
+  "events": [
+    {
+      "Date": "20-july-2016",
+      "img": "images/15.jpg",
+      "title": "UT AUT REICIENDIS FACERE POSSIMUS",
+      "hours": "3:00 PM",
+      "user": "Admin",
+      "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.",
+      "createdAt": 1624897467742,
+      "updatedAt": 1624897467742,
+      "id": 1
     },
     {
-      "name": "Zozo",
-      "price": "1",
-      "realPrice": "2",
-      "positon": "no",
-      "createdAt": 1624616223121,
-      "updatedAt": 1624616552389,
-      "id": 17,
-      "img": "images/17.png"
-    },
-    {
-      "name": "Zozo1",
-      "price": "1",
-      "realPrice": "2",
-      "positon": "no",
-      "createdAt": 1624618114971,
-      "updatedAt": 1624786004945,
-      "id": 18,
-      "img": "images/18.png"
+      "Date": "21-july-2016",
+      "img": "images/19.jpg",
+      "title": "MAXIME PLACEAT FACERE POSSIMUS",
+      "hours": "3:30 PM",
+      "user": "Admin",
+      "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.",
+      "createdAt": 1624897354557,
+      "updatedAt": 1624897354557,
+      "id": 2
     }
   ]
 }
