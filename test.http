@@ -1,12 +1,18 @@
-@base = http://localhost:3000/api/data
+@base = http://localhost:4000/api/data
+@base2 = http://localhost:4000/api/events
 
-# @name getAllData
+# @name getAllCommodity
 
 GET {{base}}
 
 ###
 
-# @name addNewData
+# @name getEvents
+GET {{base2}}
+
+###
+
+# @name addNewCommodity
 POST {{base}}
 Content-Type: application/json
 
@@ -19,22 +25,47 @@ Content-Type: application/json
 
 ###
 
-# @name updateData
-PATCH {{base}}/18
+# @name addNewEvent
+POST {{base2}}
 Content-Type: application/json
 
 {
-  "img": "images/18.png"
+  "Date": "21-july-2016",
+  "img": "images/19.jpg",
+  "title": "MAXIME PLACEAT FACERE POSSIMUS",
+  "hours": "3:30 PM",
+  "user": "Admin",
+  "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est."
 }
 
 ###
 
-# @name DeleteData
-DELETE {{base}}/18
+# @name updateCommodity
+PATCH {{base}}/16
+Content-Type: application/json
+
+{
+  "img": "images/16.png"
+}
 
 ###
 
-# @name filterData
+# @name updateEvent
+PATCH {{base2}}/1
+Content-Type: application/json
+
+{
+  "hours": "3:00 PM"
+}
+
+###
+
+# @name DeleteCommodity
+DELETE {{base}}/17
+
+###
+
+# @name filterCommodity
 GET {{base}}?position=gift
 
 ###
