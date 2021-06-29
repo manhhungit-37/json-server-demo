@@ -168,9 +168,9 @@
       "user": "Admin",
       "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.",
       "createdAt": 1624897467742,
-      "updatedAt": 1624964495193,
+      "updatedAt": 1624975361359,
       "id": 1,
-      "date": "2016, 07, 20, 15, 00, 00"
+      "date": "July 20, 2016 15:00:00"
     },
     {
       "img": "images/19.jpg",
@@ -178,9 +178,9 @@
       "user": "Admin",
       "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.",
       "createdAt": 1624897354557,
-      "updatedAt": 1624964461246,
+      "updatedAt": 1624975375413,
       "id": 2,
-      "date": "2016, 07, 21, 15, 30, 00"
+      "date": "July 21, 2016 15:30:00"
     }
   ]
 }
