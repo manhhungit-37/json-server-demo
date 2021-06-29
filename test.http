@@ -1,4 +1,4 @@
-@base = http://localhost:4000/api/data
+@base = http://localhost:4000/api/commodity
 @base2 = http://localhost:4000/api/events
 
 # @name getAllCommodity
@@ -54,7 +54,7 @@ PATCH {{base2}}/1
 Content-Type: application/json
 
 {
-  "Date": "2016, 07, 20, 03, 00, 00"
+  "date": "2016, 07, 20, 15, 00, 00"
 }
 
 ###
