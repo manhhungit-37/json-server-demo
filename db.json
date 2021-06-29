@@ -163,25 +163,23 @@
   ],
   "events": [
     {
-      "Date": "20-july-2016",
+      "Date": "2016, 07, 20, 03, 00, 00",
       "img": "images/15.jpg",
       "title": "UT AUT REICIENDIS FACERE POSSIMUS",
-      "hours": "3:00 PM",
       "user": "Admin",
       "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.",
       "createdAt": 1624897467742,
-      "updatedAt": 1624897467742,
+      "updatedAt": 1624956275654,
       "id": 1
     },
     {
-      "Date": "21-july-2016",
+      "Date": "2016, 07, 21, 03, 30, 00",
       "img": "images/19.jpg",
       "title": "MAXIME PLACEAT FACERE POSSIMUS",
-      "hours": "3:30 PM",
       "user": "Admin",
       "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.",
       "createdAt": 1624897354557,
-      "updatedAt": 1624897354557,
+      "updatedAt": 1624956264321,
       "id": 2
     }
   ]
