@@ -228,5 +228,55 @@
       "updatedAt": 1625041161612,
       "id": 4
     }
+  ],
+  "testimonials": [
+    {
+      "feedback": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "user": "ANDREW SMITH",
+      "position": "CUSTOMER",
+      "createdAt": 1625049271661,
+      "updatedAt": 1625049271661,
+      "id": 1
+    },
+    {
+      "feedback": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "user": "THOMSON RICHARD",
+      "position": "CUSTOMER",
+      "createdAt": 1625049303449,
+      "updatedAt": 1625049303449,
+      "id": 2
+    },
+    {
+      "feedback": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "user": "CRISP KALE",
+      "position": "CUSTOMER",
+      "createdAt": 1625049324455,
+      "updatedAt": 1625049324455,
+      "id": 3
+    },
+    {
+      "feedback": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "user": "JOHN PAUL",
+      "position": "CUSTOMER",
+      "createdAt": 1625049346428,
+      "updatedAt": 1625049346428,
+      "id": 4
+    },
+    {
+      "feedback": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "user": "ROSY CARL",
+      "position": "CUSTOMER",
+      "createdAt": 1625049372779,
+      "updatedAt": 1625049372779,
+      "id": 5
+    },
+    {
+      "feedback": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "user": "ROCKSON DOE",
+      "position": "CUSTOMER",
+      "createdAt": 1625049389344,
+      "updatedAt": 1625049389344,
+      "id": 6
+    }
   ]
 }
