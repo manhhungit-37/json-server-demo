@@ -182,5 +182,51 @@
       "id": 2,
       "date": "July 21, 2016 15:30:00"
     }
+  ],
+  "members": [
+    {
+      "img": "images/32.jpg",
+      "name": "MARTIN PAUL",
+      "position": "Manager",
+      "facebook": "https://www.facebook.com/tung.hung.10888938/",
+      "twitter": "",
+      "google": "",
+      "createdAt": 1625041108993,
+      "updatedAt": 1625041108993,
+      "id": 1
+    },
+    {
+      "img": "images/33.jpg",
+      "name": "MICHAEL RICK",
+      "position": "Supervisor",
+      "facebook": "",
+      "twitter": "",
+      "google": "",
+      "createdAt": 1625041134542,
+      "updatedAt": 1625041134542,
+      "id": 2
+    },
+    {
+      "img": "images/34.jpg",
+      "name": "THOMAS CARL",
+      "position": "Supervisor",
+      "facebook": "",
+      "twitter": "",
+      "google": "",
+      "createdAt": 1625041148143,
+      "updatedAt": 1625041148143,
+      "id": 3
+    },
+    {
+      "img": "images/35.jpg",
+      "name": "LAURA LEE",
+      "position": "CEO",
+      "facebook": "",
+      "twitter": "",
+      "google": "",
+      "createdAt": 1625041161612,
+      "updatedAt": 1625041161612,
+      "id": 4
+    }
   ]
 }

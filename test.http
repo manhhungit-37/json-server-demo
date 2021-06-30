@@ -1,5 +1,6 @@
 @base = http://localhost:4000/api/commodity
 @base2 = http://localhost:4000/api/events
+@base3 = http://localhost:4000/api/members
 
 # @name getAllCommodity
 
@@ -50,11 +51,11 @@ Content-Type: application/json
 ###
 
 # @name updateEvent
-PATCH {{base2}}/1
+PATCH {{base2}}/2
 Content-Type: application/json
 
 {
-  "date": "2016, 07, 20, 15, 00, 00"
+  "date": "July 21, 2016 15:30:00"
 }
 
 ###
@@ -81,3 +82,18 @@ GET {{base}}?_sort=price&_order=asc
 
 # @name slice
 GET {{base}}?_start=10&_end=20
+
+###
+
+# @name addNewMember
+POST {{base3}}
+Content-Type: application/json
+
+{
+  "img": "images/32.jpg",
+  "name": "MARTIN PAUL",
+  "position": "Manager",
+  "facebook": "https://www.facebook.com/tung.hung.10888938/",
+  "twitter": "",
+  "google": ""
+}
