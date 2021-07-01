@@ -2,6 +2,7 @@
 @base2 = http://localhost:4000/api/events
 @base3 = http://localhost:4000/api/members
 @base4 = http://localhost:4000/api/testimonials
+@base5 = http://localhost:4000/api/introduce
 
 
 # @name getAllCommodity
@@ -15,8 +16,6 @@ GET {{base2}}
 
 ###
 
-###
-
 # @name getMember
 GET {{base3}}
 
@@ -24,6 +23,11 @@ GET {{base3}}
 
 # @name getTestimonials
 GET {{base4}}
+
+###
+
+# @name getIntroduce
+GET {{base5}}
 
 ###
 
@@ -122,4 +126,16 @@ Content-Type: application/json
   "feedback": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
   "user": "ROCKSON DOE",
   "position": "CUSTOMER"
+}
+
+###
+
+# @name addNewIntroduce
+POST {{base5}}
+Content-Type: application/json
+
+{
+  "img": "/images/19.jpg",
+  "title": "Dry Fruits",
+  "li": ["Enim Ipsam Voluptatem Officia", "Tempora Incidunt Ut Labore Et", "Vel Eum Iure Reprehenderit"]
 }
