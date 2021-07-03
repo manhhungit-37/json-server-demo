@@ -3,6 +3,7 @@
 @base3 = http://localhost:4000/api/members
 @base4 = http://localhost:4000/api/testimonials
 @base5 = http://localhost:4000/api/introduce
+@base6 = http://localhost:4000/api/services
 
 
 # @name getAllCommodity
@@ -28,6 +29,11 @@ GET {{base4}}
 
 # @name getIntroduce
 GET {{base5}}
+
+###
+
+# @name getServices
+GET {{base6}}
 
 ###
 
@@ -135,7 +141,20 @@ POST {{base5}}
 Content-Type: application/json
 
 {
-  "img": "/images/19.jpg",
-  "title": "Dry Fruits",
-  "li": ["Enim Ipsam Voluptatem Officia", "Tempora Incidunt Ut Labore Et", "Vel Eum Iure Reprehenderit"]
+  "img": "/images/30.jpg",
+  "title": "Frozen Soybean",
+  "li": ["Dolorem Eum Fugiat Voluptas", "Ut Aliquid Ex Ea Commodi", "Magnam Aliquam Quaerat"]
+}
+
+###
+
+# @name addNewServices
+POST {{base6}}
+Content-Type: application/json
+
+{
+  "followers": 89147,
+  "savings": 54598,
+  "support": 83983,
+  "popularity": 45894
 }

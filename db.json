@@ -388,5 +388,13 @@
       "updatedAt": 1625109539649,
       "id": 9
     }
-  ]
+  ],
+  "services": {
+    "followers": 89147,
+    "savings": 54598,
+    "support": 83983,
+    "popularity": 45894,
+    "createdAt": 1625241496261,
+    "updatedAt": 1625241496261
+  }
 }
