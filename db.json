@@ -279,6 +279,36 @@
       "createdAt": 1625580045493,
       "updatedAt": 1625580045493,
       "id": 28
+    },
+    {
+      "img": "images/29.png",
+      "name": "Fresh Bananas (1 Kg)",
+      "price": 10,
+      "realPrice": 12,
+      "positon": "gift",
+      "createdAt": 1625582957369,
+      "updatedAt": 1625582957369,
+      "id": 29
+    },
+    {
+      "img": "images/30.png",
+      "name": "Fresh Cauliflower (2 No's)",
+      "price": 5,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625583191709,
+      "updatedAt": 1625583191709,
+      "id": 30
+    },
+    {
+      "img": "images/31.png",
+      "name": "Fresh Brinjal Bharta (1 Kg)",
+      "price": 2,
+      "realPrice": 3,
+      "positon": "offer",
+      "createdAt": 1625583285920,
+      "updatedAt": 1625583285920,
+      "id": 31
     }
   ],
   "events": [
