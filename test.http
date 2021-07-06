@@ -49,10 +49,11 @@ POST {{base}}
 Content-Type: application/json
 
 {
-  "name": "Zozo1",
-  "price": "1",
-  "realPrice": "2",
-  "positon": "no"
+  "img": "images/28.png",
+  "name": "Chicken In Jelly Can (400 Gm)",
+  "price": 7,
+  "realPrice": 9,
+  "positon": "offer"
 }
 
 ###
