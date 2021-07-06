@@ -397,10 +397,18 @@
     "createdAt": 1625241496261,
     "updatedAt": 1625241496261
   },
-  "banner": {
-    "productsBanner": "/images/12.jpg",
-    "createdAt": 1625562651445,
-    "updatedAt": 1625563044176,
-    "householdBanner": "/images/16.jpg"
-  }
+  "banner": [
+    {
+      "id": 1,
+      "img": "/images/12.jpg",
+      "createdAt": 1625564370633,
+      "updatedAt": 1625564370633
+    },
+    {
+      "id": 2,
+      "img": "/images/16.jpg",
+      "createdAt": 1625564378762,
+      "updatedAt": 1625564378762
+    }
+  ]
 }
