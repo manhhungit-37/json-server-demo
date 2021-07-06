@@ -49,10 +49,10 @@ POST {{base}}
 Content-Type: application/json
 
 {
-  "img": "images/31.png",
-  "name": "Fresh Brinjal Bharta (1 Kg)",
-  "price": 2,
-  "realPrice": 3,
+  "img": "images/36.png",
+  "name": "Fresh Strawberry (1 Pc)",
+  "price": 7,
+  "realPrice": 9,
   "positon": "offer"
 }
 
