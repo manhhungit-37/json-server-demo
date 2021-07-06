@@ -159,6 +159,126 @@
       "position": "offer",
       "createdAt": 1624895236634,
       "updatedAt": 1624895236634
+    },
+    {
+      "img": "images/17.png",
+      "name": "Dishwash Gel, Lemon (1.5 Ltr)",
+      "price": 8,
+      "realPrice": 10,
+      "positon": "offer",
+      "createdAt": 1625579798425,
+      "updatedAt": 1625579798425,
+      "id": 17
+    },
+    {
+      "img": "images/18.png",
+      "name": "Dish Wash Bar (500 Gm)",
+      "price": 2,
+      "realPrice": 4,
+      "positon": "offer",
+      "createdAt": 1625579821963,
+      "updatedAt": 1625579821963,
+      "id": 18
+    },
+    {
+      "img": "images/19.png",
+      "name": "Air Freshener (50 Gm)",
+      "price": 3,
+      "realPrice": 5,
+      "positon": "offer",
+      "createdAt": 1625579848251,
+      "updatedAt": 1625579848251,
+      "id": 19
+    },
+    {
+      "img": "images/20.png",
+      "name": "Toilet Cleaner Expert (1 Ltr)",
+      "price": 6,
+      "realPrice": 7,
+      "positon": "offer",
+      "createdAt": 1625579869003,
+      "updatedAt": 1625579869003,
+      "id": 20
+    },
+    {
+      "img": "images/21.png",
+      "name": "Princeware Packaging Container Pack (6 No's)",
+      "price": 8,
+      "realPrice": 10,
+      "positon": "offer",
+      "createdAt": 1625579903022,
+      "updatedAt": 1625579903022,
+      "id": 21
+    },
+    {
+      "img": "images/22.png",
+      "name": "Signoraware Container Center Press (900 Ml)",
+      "price": 5,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625579919367,
+      "updatedAt": 1625579919367,
+      "id": 22
+    },
+    {
+      "img": "images/23.png",
+      "name": "Ship Stainless Steel Sauce Pan Single (1 Pc)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "gift",
+      "createdAt": 1625579946813,
+      "updatedAt": 1625579946813,
+      "id": 23
+    },
+    {
+      "img": "images/24.png",
+      "name": "Omega Stainless Steel Puri Dabba (1 Pc)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625579966411,
+      "updatedAt": 1625579966411,
+      "id": 24
+    },
+    {
+      "img": "images/25.png",
+      "name": "Food For Adult Dogs (80 Gms)",
+      "price": 3,
+      "realPrice": 4,
+      "positon": "offer",
+      "createdAt": 1625579987455,
+      "updatedAt": 1625579987455,
+      "id": 25
+    },
+    {
+      "img": "images/26.png",
+      "name": "Young Adult Dogs (1.2 Kg)",
+      "price": 6,
+      "realPrice": 10,
+      "positon": "offer",
+      "createdAt": 1625580003548,
+      "updatedAt": 1625580003548,
+      "id": 26
+    },
+    {
+      "img": "images/27.png",
+      "name": "Cat Food Ocean Fish (1.4 Kg)",
+      "price": 6,
+      "realPrice": 7,
+      "positon": "gift",
+      "createdAt": 1625580021206,
+      "updatedAt": 1625580021206,
+      "id": 27
+    },
+    {
+      "img": "images/28.png",
+      "name": "Chicken In Jelly Can (400 Gm)",
+      "price": 7,
+      "realPrice": 9,
+      "positon": "offer",
+      "createdAt": 1625580045493,
+      "updatedAt": 1625580045493,
+      "id": 28
     }
   ],
   "events": [
