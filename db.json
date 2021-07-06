@@ -398,9 +398,9 @@
     "updatedAt": 1625241496261
   },
   "banner": {
-    "serviceBanner": "/12.jpg",
-    "householdBanner": "/16.jpg",
+    "serviceBanner": "/images/12.jpg",
+    "householdBanner": "/images/16.jpg",
     "createdAt": 1625561175409,
-    "updatedAt": 1625561175409
+    "updatedAt": 1625562147666
   }
 }

@@ -173,6 +173,6 @@ POST {{base7}}
 Content-Type: application/json
 
 {
-  "serviceBanner": "/12.jpg",
-  "householdBanner": "/16.jpg"
+  "serviceBanner": "/images/12.jpg",
+  "householdBanner": "/images/16.jpg"
 }
