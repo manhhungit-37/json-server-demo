@@ -309,6 +309,56 @@
       "createdAt": 1625583285920,
       "updatedAt": 1625583285920,
       "id": 31
+    },
+    {
+      "img": "images/32.png",
+      "name": "Fresh Sweet Lime (500 Gm)",
+      "price": 6,
+      "realPrice": 7,
+      "positon": "offer",
+      "createdAt": 1625583458147,
+      "updatedAt": 1625583458147,
+      "id": 32
+    },
+    {
+      "img": "images/33.png",
+      "name": "Fresh Basket Onion (1 Kg)",
+      "price": 5,
+      "realPrice": 7,
+      "positon": "offer",
+      "createdAt": 1625583531272,
+      "updatedAt": 1625583531272,
+      "id": 33
+    },
+    {
+      "img": "images/34.png",
+      "name": "Fresh Muskmelon (1 Kg)",
+      "price": 4,
+      "realPrice": 5,
+      "positon": "offer",
+      "createdAt": 1625583566217,
+      "updatedAt": 1625583566217,
+      "id": 34
+    },
+    {
+      "img": "images/35.png",
+      "name": "Fresh Mushroom (500 Ml)",
+      "price": 11,
+      "realPrice": 15,
+      "positon": "gift",
+      "createdAt": 1625583588516,
+      "updatedAt": 1625583588516,
+      "id": 35
+    },
+    {
+      "img": "images/36.png",
+      "name": "Fresh Strawberry (1 Pc)",
+      "price": 7,
+      "realPrice": 9,
+      "positon": "offer",
+      "createdAt": 1625583612766,
+      "updatedAt": 1625583612766,
+      "id": 36
     }
   ],
   "events": [
