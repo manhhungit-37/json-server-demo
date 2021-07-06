@@ -4,6 +4,8 @@
 @base4 = http://localhost:4000/api/testimonials
 @base5 = http://localhost:4000/api/introduce
 @base6 = http://localhost:4000/api/services
+@base7 = http://localhost:4000/api/banner
+
 
 
 # @name getAllCommodity
@@ -34,6 +36,11 @@ GET {{base5}}
 
 # @name getServices
 GET {{base6}}
+
+###
+
+# @name getBanner
+GET {{base7}}
 
 ###
 
@@ -157,4 +164,15 @@ Content-Type: application/json
   "savings": 54598,
   "support": 83983,
   "popularity": 45894
+}
+
+###
+
+# @name addNewBanner
+POST {{base7}}
+Content-Type: application/json
+
+{
+  "serviceBanner": "/12.jpg",
+  "householdBanner": "/16.jpg"
 }
