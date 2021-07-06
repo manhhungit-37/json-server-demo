@@ -169,4 +169,10 @@ Content-Type: application/json
 ###
 
 # @name addNewBanner
-DELETE  {{base7}}
+POST  {{base7}}
+Content-Type: application/json
+
+{
+  "id": 2,
+  "img": "/images/16.jpg"
+}
