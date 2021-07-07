@@ -359,6 +359,76 @@
       "createdAt": 1625583612766,
       "updatedAt": 1625583612766,
       "id": 36
+    },
+    {
+      "img": "images/49.png",
+      "name": "Orange Soft Drink (250 Ml)",
+      "price": 5,
+      "realPrice": 7,
+      "positon": "offer",
+      "createdAt": 1625629178453,
+      "updatedAt": 1625629178453,
+      "id": 37
+    },
+    {
+      "img": "images/50.png",
+      "name": "Aamras Juice (250 Ml)",
+      "price": 4,
+      "realPrice": 5,
+      "positon": "offer",
+      "createdAt": 1625629215591,
+      "updatedAt": 1625629215591,
+      "id": 38
+    },
+    {
+      "img": "images/51.png",
+      "name": "Coconut Water (1000 Ml)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "gift",
+      "createdAt": 1625629241258,
+      "updatedAt": 1625629241258,
+      "id": 39
+    },
+    {
+      "img": "images/52.png",
+      "name": "Ceres Orange Juice (1 Ltr)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625629270118,
+      "updatedAt": 1625629270118,
+      "id": 40
+    },
+    {
+      "img": "images/53.png",
+      "name": "Dabur Glucose D (250 Gm)",
+      "price": 10,
+      "realPrice": 12,
+      "positon": "offer",
+      "createdAt": 1625629291375,
+      "updatedAt": 1625629291375,
+      "id": 41
+    },
+    {
+      "img": "images/54.png",
+      "name": "Mix Lemon Flavour (50 Gm)",
+      "price": 8,
+      "realPrice": 10,
+      "positon": "offer",
+      "createdAt": 1625629308178,
+      "updatedAt": 1625629308178,
+      "id": 42
+    },
+    {
+      "img": "images/55.png",
+      "name": "Schweppes Water (250 Ltr)",
+      "price": 6,
+      "realPrice": 7,
+      "positon": "gift",
+      "createdAt": 1625629328733,
+      "updatedAt": 1625629328733,
+      "id": 43
     }
   ],
   "events": [
