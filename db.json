@@ -629,6 +629,126 @@
       "createdAt": 1625647918736,
       "updatedAt": 1625647918736,
       "id": 63
+    },
+    {
+      "img": "images/37.png",
+      "name": "Raisin Rolls (2 In 1 Pack)",
+      "price": 4,
+      "realPrice": 5,
+      "position": "offer",
+      "createdAt": 1625649794675,
+      "updatedAt": 1625649794675,
+      "id": 64
+    },
+    {
+      "img": "images/38.png",
+      "name": "Butter Croissants (50 Gm)",
+      "price": 2,
+      "realPrice": 4,
+      "position": "offer",
+      "createdAt": 1625649809776,
+      "updatedAt": 1625649809776,
+      "id": 65
+    },
+    {
+      "img": "images/39.png",
+      "name": "Bread Wheat Pita (250 Gm)",
+      "price": 3,
+      "realPrice": 5,
+      "position": "offer",
+      "createdAt": 1625649821186,
+      "updatedAt": 1625649821186,
+      "id": 66
+    },
+    {
+      "img": "images/40.png",
+      "name": "Hot Dog Roll (150 Gm)",
+      "price": 4,
+      "realPrice": 5,
+      "position": "offer",
+      "createdAt": 1625649838166,
+      "updatedAt": 1625649838166,
+      "id": 67
+    },
+    {
+      "img": "images/41.png",
+      "name": "Masala Bread (500 Gm)",
+      "price": 3,
+      "realPrice": 5,
+      "position": "offer",
+      "createdAt": 1625649855559,
+      "updatedAt": 1625649855559,
+      "id": 68
+    },
+    {
+      "img": "images/42.png",
+      "name": "Rolls Chocolate (3 Pcs)",
+      "price": 5,
+      "realPrice": 8,
+      "position": "offer",
+      "createdAt": 1625649868354,
+      "updatedAt": 1625649868354,
+      "id": 69
+    },
+    {
+      "img": "images/43.png",
+      "name": "Wheat Masala Pav (500 Gm)",
+      "price": 6,
+      "realPrice": 8,
+      "position": "gift",
+      "createdAt": 1625649891491,
+      "updatedAt": 1625649891491,
+      "id": 70
+    },
+    {
+      "img": "images/44.png",
+      "name": "Baked - Garlic Bread (200 Gm)",
+      "price": 6,
+      "realPrice": 8,
+      "position": "offer",
+      "createdAt": 1625649905259,
+      "updatedAt": 1625649905259,
+      "id": 71
+    },
+    {
+      "img": "images/45.png",
+      "name": "Eggless Walnut (250 Gm)",
+      "price": 6,
+      "realPrice": 8,
+      "position": "offer",
+      "createdAt": 1625649919340,
+      "updatedAt": 1625649919340,
+      "id": 72
+    },
+    {
+      "img": "images/46.png",
+      "name": "Assorted Muffins (200 Gm)",
+      "price": 4,
+      "realPrice": 5,
+      "position": "offer",
+      "createdAt": 1625649935120,
+      "updatedAt": 1625649935120,
+      "id": 73
+    },
+    {
+      "img": "images/47.png",
+      "name": "Bagels - Sesame (200 Gm)",
+      "price": 6,
+      "realPrice": 7,
+      "position": "gift",
+      "createdAt": 1625649955508,
+      "updatedAt": 1625649955508,
+      "id": 74
+    },
+    {
+      "img": "images/48.png",
+      "name": "Flax & Walnut Loaf (400 Gm)",
+      "price": 7,
+      "realPrice": 9,
+      "position": "offer",
+      "createdAt": 1625649980205,
+      "updatedAt": 1625649980205,
+      "id": 75
     }
   ],
   "events": [

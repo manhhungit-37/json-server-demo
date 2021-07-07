@@ -49,8 +49,8 @@ POST {{base}}
 Content-Type: application/json
 
 {
-  "img": "images/75.png",
-  "name": "Veggie Fingers (400 Gm)",
+  "img": "images/48.png",
+  "name": "Flax & Walnut Loaf (400 Gm)",
   "price": 7,
   "realPrice": 9,
   "position": "offer"
