@@ -53,7 +53,7 @@ Content-Type: application/json
   "name": "Veggie Fingers (400 Gm)",
   "price": 7,
   "realPrice": 9,
-  "positon": "offer"
+  "position": "offer"
 }
 
 ###

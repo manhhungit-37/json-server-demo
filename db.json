@@ -515,7 +515,7 @@
       "name": "Pepper Salami (250 Gm)",
       "price": 10,
       "realPrice": 12,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625647710337,
       "updatedAt": 1625647710337,
       "id": 52
@@ -525,7 +525,7 @@
       "name": "Sumeru Green Pees (500 Gm)",
       "price": 9,
       "realPrice": 11,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647728923,
       "updatedAt": 1625647728923,
       "id": 53
@@ -535,7 +535,7 @@
       "name": "Tikka Chicken (300 Gm)",
       "price": 6,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647749600,
       "updatedAt": 1625647749600,
       "id": 54
@@ -545,7 +545,7 @@
       "name": "Mixed Vegetables (500 Gm)",
       "price": 6,
       "realPrice": 7,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647765164,
       "updatedAt": 1625647765164,
       "id": 55
@@ -555,7 +555,7 @@
       "name": "Mango Pulp (800 Gm)",
       "price": 9,
       "realPrice": 11,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647788011,
       "updatedAt": 1625647788011,
       "id": 56
@@ -565,7 +565,7 @@
       "name": "Kesar Mango Pulp (800 Gm)",
       "price": 5,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647803449,
       "updatedAt": 1625647803449,
       "id": 57
@@ -575,7 +575,7 @@
       "name": "Frozen Sweet Corn (250 Gm)",
       "price": 6,
       "realPrice": 8,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625647819816,
       "updatedAt": 1625647819816,
       "id": 58
@@ -585,7 +585,7 @@
       "name": "Chicken Nuggets (1 Kg)",
       "price": 4,
       "realPrice": 6,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647840258,
       "updatedAt": 1625647840258,
       "id": 59
@@ -595,7 +595,7 @@
       "name": "Garlic Fingers (400 Gm)",
       "price": 5,
       "realPrice": 7,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647864540,
       "updatedAt": 1625647864540,
       "id": 60
@@ -605,7 +605,7 @@
       "name": "Catch Fish Finger (200 Gm)",
       "price": 8,
       "realPrice": 10,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647881491,
       "updatedAt": 1625647881491,
       "id": 61
@@ -615,7 +615,7 @@
       "name": "Sumeru Chicken (500 Ml)",
       "price": 11,
       "realPrice": 15,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625647900434,
       "updatedAt": 1625647900434,
       "id": 62
@@ -625,7 +625,7 @@
       "name": "Veggie Fingers (400 Gm)",
       "price": 7,
       "realPrice": 9,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625647918736,
       "updatedAt": 1625647918736,
       "id": 63
