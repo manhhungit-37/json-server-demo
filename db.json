@@ -165,7 +165,7 @@
       "name": "Dishwash Gel, Lemon (1.5 Ltr)",
       "price": 8,
       "realPrice": 10,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579798425,
       "updatedAt": 1625579798425,
       "id": 17
@@ -175,7 +175,7 @@
       "name": "Dish Wash Bar (500 Gm)",
       "price": 2,
       "realPrice": 4,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579821963,
       "updatedAt": 1625579821963,
       "id": 18
@@ -185,7 +185,7 @@
       "name": "Air Freshener (50 Gm)",
       "price": 3,
       "realPrice": 5,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579848251,
       "updatedAt": 1625579848251,
       "id": 19
@@ -195,7 +195,7 @@
       "name": "Toilet Cleaner Expert (1 Ltr)",
       "price": 6,
       "realPrice": 7,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579869003,
       "updatedAt": 1625579869003,
       "id": 20
@@ -205,7 +205,7 @@
       "name": "Princeware Packaging Container Pack (6 No's)",
       "price": 8,
       "realPrice": 10,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579903022,
       "updatedAt": 1625579903022,
       "id": 21
@@ -215,7 +215,7 @@
       "name": "Signoraware Container Center Press (900 Ml)",
       "price": 5,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579919367,
       "updatedAt": 1625579919367,
       "id": 22
@@ -225,7 +225,7 @@
       "name": "Ship Stainless Steel Sauce Pan Single (1 Pc)",
       "price": 6,
       "realPrice": 8,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625579946813,
       "updatedAt": 1625579946813,
       "id": 23
@@ -235,7 +235,7 @@
       "name": "Omega Stainless Steel Puri Dabba (1 Pc)",
       "price": 6,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579966411,
       "updatedAt": 1625579966411,
       "id": 24
@@ -245,7 +245,7 @@
       "name": "Food For Adult Dogs (80 Gms)",
       "price": 3,
       "realPrice": 4,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625579987455,
       "updatedAt": 1625579987455,
       "id": 25
@@ -255,7 +255,7 @@
       "name": "Young Adult Dogs (1.2 Kg)",
       "price": 6,
       "realPrice": 10,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625580003548,
       "updatedAt": 1625580003548,
       "id": 26
@@ -265,7 +265,7 @@
       "name": "Cat Food Ocean Fish (1.4 Kg)",
       "price": 6,
       "realPrice": 7,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625580021206,
       "updatedAt": 1625580021206,
       "id": 27
@@ -275,7 +275,7 @@
       "name": "Chicken In Jelly Can (400 Gm)",
       "price": 7,
       "realPrice": 9,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625580045493,
       "updatedAt": 1625580045493,
       "id": 28
@@ -285,7 +285,7 @@
       "name": "Fresh Bananas (1 Kg)",
       "price": 10,
       "realPrice": 12,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625582957369,
       "updatedAt": 1625582957369,
       "id": 29
@@ -295,7 +295,7 @@
       "name": "Fresh Cauliflower (2 No's)",
       "price": 5,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625583191709,
       "updatedAt": 1625583191709,
       "id": 30
@@ -305,7 +305,7 @@
       "name": "Fresh Brinjal Bharta (1 Kg)",
       "price": 2,
       "realPrice": 3,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625583285920,
       "updatedAt": 1625583285920,
       "id": 31
@@ -315,7 +315,7 @@
       "name": "Fresh Sweet Lime (500 Gm)",
       "price": 6,
       "realPrice": 7,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625583458147,
       "updatedAt": 1625583458147,
       "id": 32
@@ -325,7 +325,7 @@
       "name": "Fresh Basket Onion (1 Kg)",
       "price": 5,
       "realPrice": 7,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625583531272,
       "updatedAt": 1625583531272,
       "id": 33
@@ -335,7 +335,7 @@
       "name": "Fresh Muskmelon (1 Kg)",
       "price": 4,
       "realPrice": 5,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625583566217,
       "updatedAt": 1625583566217,
       "id": 34
@@ -345,7 +345,7 @@
       "name": "Fresh Mushroom (500 Ml)",
       "price": 11,
       "realPrice": 15,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625583588516,
       "updatedAt": 1625583588516,
       "id": 35
@@ -355,7 +355,7 @@
       "name": "Fresh Strawberry (1 Pc)",
       "price": 7,
       "realPrice": 9,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625583612766,
       "updatedAt": 1625583612766,
       "id": 36
@@ -365,7 +365,7 @@
       "name": "Orange Soft Drink (250 Ml)",
       "price": 5,
       "realPrice": 7,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625629178453,
       "updatedAt": 1625629178453,
       "id": 37
@@ -375,7 +375,7 @@
       "name": "Aamras Juice (250 Ml)",
       "price": 4,
       "realPrice": 5,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625629215591,
       "updatedAt": 1625629215591,
       "id": 38
@@ -385,7 +385,7 @@
       "name": "Coconut Water (1000 Ml)",
       "price": 6,
       "realPrice": 8,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625629241258,
       "updatedAt": 1625629241258,
       "id": 39
@@ -395,7 +395,7 @@
       "name": "Ceres Orange Juice (1 Ltr)",
       "price": 6,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625629270118,
       "updatedAt": 1625629270118,
       "id": 40
@@ -405,7 +405,7 @@
       "name": "Dabur Glucose D (250 Gm)",
       "price": 10,
       "realPrice": 12,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625629291375,
       "updatedAt": 1625629291375,
       "id": 41
@@ -415,7 +415,7 @@
       "name": "Mix Lemon Flavour (50 Gm)",
       "price": 8,
       "realPrice": 10,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625629308178,
       "updatedAt": 1625629308178,
       "id": 42
@@ -425,7 +425,7 @@
       "name": "Schweppes Water (250 Ltr)",
       "price": 6,
       "realPrice": 7,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625629328733,
       "updatedAt": 1625629328733,
       "id": 43
@@ -435,7 +435,7 @@
       "name": "Red Bull Energy Drink (250 Ml)",
       "price": 7,
       "realPrice": 9,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625629732661,
       "updatedAt": 1625629732661,
       "id": 44
@@ -445,7 +445,7 @@
       "name": "Can - Tuna For Cats (400 Gm)",
       "price": 8,
       "realPrice": 10,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625645950390,
       "updatedAt": 1625645950390,
       "id": 45
@@ -455,7 +455,7 @@
       "name": "Junior Pet Food (90 Gm)",
       "price": 5,
       "realPrice": 6,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625645978758,
       "updatedAt": 1625645978758,
       "id": 46
@@ -465,7 +465,7 @@
       "name": "Gravy Food For Dogs (20 Kg)",
       "price": 15,
       "realPrice": 18,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625646005032,
       "updatedAt": 1625646005032,
       "id": 47
@@ -475,7 +475,7 @@
       "name": "Meat For Dogs (100 Gm)",
       "price": 8,
       "realPrice": 10,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625646027288,
       "updatedAt": 1625646027288,
       "id": 48
@@ -485,7 +485,7 @@
       "name": "Weekly Pack (200 Gm)",
       "price": 5,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625646042244,
       "updatedAt": 1625646042244,
       "id": 49
@@ -495,7 +495,7 @@
       "name": "Dog Munchies (500 Gm)",
       "price": 6,
       "realPrice": 8,
-      "positon": "gift",
+      "position": "gift",
       "createdAt": 1625646062192,
       "updatedAt": 1625646062192,
       "id": 50
@@ -505,7 +505,7 @@
       "name": "Nutrition For Cats (90 Gm)",
       "price": 6,
       "realPrice": 8,
-      "positon": "offer",
+      "position": "offer",
       "createdAt": 1625646077209,
       "updatedAt": 1625646077209,
       "id": 51
