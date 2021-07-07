@@ -439,6 +439,76 @@
       "createdAt": 1625629732661,
       "updatedAt": 1625629732661,
       "id": 44
+    },
+    {
+      "img": "images/57.png",
+      "name": "Can - Tuna For Cats (400 Gm)",
+      "price": 8,
+      "realPrice": 10,
+      "positon": "offer",
+      "createdAt": 1625645950390,
+      "updatedAt": 1625645950390,
+      "id": 45
+    },
+    {
+      "img": "images/58.png",
+      "name": "Junior Pet Food (90 Gm)",
+      "price": 5,
+      "realPrice": 6,
+      "positon": "offer",
+      "createdAt": 1625645978758,
+      "updatedAt": 1625645978758,
+      "id": 46
+    },
+    {
+      "img": "images/59.png",
+      "name": "Gravy Food For Dogs (20 Kg)",
+      "price": 15,
+      "realPrice": 18,
+      "positon": "offer",
+      "createdAt": 1625646005032,
+      "updatedAt": 1625646005032,
+      "id": 47
+    },
+    {
+      "img": "images/60.png",
+      "name": "Meat For Dogs (100 Gm)",
+      "price": 8,
+      "realPrice": 10,
+      "positon": "offer",
+      "createdAt": 1625646027288,
+      "updatedAt": 1625646027288,
+      "id": 48
+    },
+    {
+      "img": "images/61.png",
+      "name": "Weekly Pack (200 Gm)",
+      "price": 5,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625646042244,
+      "updatedAt": 1625646042244,
+      "id": 49
+    },
+    {
+      "img": "images/62.png",
+      "name": "Dog Munchies (500 Gm)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "gift",
+      "createdAt": 1625646062192,
+      "updatedAt": 1625646062192,
+      "id": 50
+    },
+    {
+      "img": "images/63.png",
+      "name": "Nutrition For Cats (90 Gm)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625646077209,
+      "updatedAt": 1625646077209,
+      "id": 51
     }
   ],
   "events": [

@@ -49,10 +49,10 @@ POST {{base}}
 Content-Type: application/json
 
 {
-  "img": "images/56.png",
-  "name": "Red Bull Energy Drink (250 Ml)",
-  "price": 7,
-  "realPrice": 9,
+  "img": "images/63.png",
+  "name": "Nutrition For Cats (90 Gm)",
+  "price": 6,
+  "realPrice": 8,
   "positon": "offer"
 }
 
