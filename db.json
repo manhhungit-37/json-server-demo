@@ -509,6 +509,126 @@
       "createdAt": 1625646077209,
       "updatedAt": 1625646077209,
       "id": 51
+    },
+    {
+      "img": "images/64.png",
+      "name": "Pepper Salami (250 Gm)",
+      "price": 10,
+      "realPrice": 12,
+      "positon": "gift",
+      "createdAt": 1625647710337,
+      "updatedAt": 1625647710337,
+      "id": 52
+    },
+    {
+      "img": "images/65.png",
+      "name": "Sumeru Green Pees (500 Gm)",
+      "price": 9,
+      "realPrice": 11,
+      "positon": "offer",
+      "createdAt": 1625647728923,
+      "updatedAt": 1625647728923,
+      "id": 53
+    },
+    {
+      "img": "images/66.png",
+      "name": "Tikka Chicken (300 Gm)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625647749600,
+      "updatedAt": 1625647749600,
+      "id": 54
+    },
+    {
+      "img": "images/67.png",
+      "name": "Mixed Vegetables (500 Gm)",
+      "price": 6,
+      "realPrice": 7,
+      "positon": "offer",
+      "createdAt": 1625647765164,
+      "updatedAt": 1625647765164,
+      "id": 55
+    },
+    {
+      "img": "images/68.png",
+      "name": "Mango Pulp (800 Gm)",
+      "price": 9,
+      "realPrice": 11,
+      "positon": "offer",
+      "createdAt": 1625647788011,
+      "updatedAt": 1625647788011,
+      "id": 56
+    },
+    {
+      "img": "images/69.png",
+      "name": "Kesar Mango Pulp (800 Gm)",
+      "price": 5,
+      "realPrice": 8,
+      "positon": "offer",
+      "createdAt": 1625647803449,
+      "updatedAt": 1625647803449,
+      "id": 57
+    },
+    {
+      "img": "images/70.png",
+      "name": "Frozen Sweet Corn (250 Gm)",
+      "price": 6,
+      "realPrice": 8,
+      "positon": "gift",
+      "createdAt": 1625647819816,
+      "updatedAt": 1625647819816,
+      "id": 58
+    },
+    {
+      "img": "images/71.png",
+      "name": "Chicken Nuggets (1 Kg)",
+      "price": 4,
+      "realPrice": 6,
+      "positon": "offer",
+      "createdAt": 1625647840258,
+      "updatedAt": 1625647840258,
+      "id": 59
+    },
+    {
+      "img": "images/72.png",
+      "name": "Garlic Fingers (400 Gm)",
+      "price": 5,
+      "realPrice": 7,
+      "positon": "offer",
+      "createdAt": 1625647864540,
+      "updatedAt": 1625647864540,
+      "id": 60
+    },
+    {
+      "img": "images/73.png",
+      "name": "Catch Fish Finger (200 Gm)",
+      "price": 8,
+      "realPrice": 10,
+      "positon": "offer",
+      "createdAt": 1625647881491,
+      "updatedAt": 1625647881491,
+      "id": 61
+    },
+    {
+      "img": "images/74.png",
+      "name": "Sumeru Chicken (500 Ml)",
+      "price": 11,
+      "realPrice": 15,
+      "positon": "gift",
+      "createdAt": 1625647900434,
+      "updatedAt": 1625647900434,
+      "id": 62
+    },
+    {
+      "img": "images/75.png",
+      "name": "Veggie Fingers (400 Gm)",
+      "price": 7,
+      "realPrice": 9,
+      "positon": "offer",
+      "createdAt": 1625647918736,
+      "updatedAt": 1625647918736,
+      "id": 63
     }
   ],
   "events": [
