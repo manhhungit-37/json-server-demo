@@ -6,6 +6,9 @@
 @base6 = http://localhost:4000/api/services
 @base7 = http://localhost:4000/api/banner
 
+@base8 = http://localhost:4000/api/account
+
+
 
 
 # @name getAllCommodity
@@ -176,4 +179,15 @@ Content-Type: application/json
 {
   "id": 8,
   "img": "/images/28.jpg"
+}
+
+###
+
+# @name addNewAccount
+POST  {{base8}}
+Content-Type: application/json
+
+{
+  "email": "manhhunggts98@gmail.com",
+  "password": "hungngu1"
 }

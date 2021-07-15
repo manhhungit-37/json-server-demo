@@ -1036,5 +1036,14 @@
       "createdAt": 1625628243943,
       "updatedAt": 1625628243943
     }
+  ],
+  "account": [
+    {
+      "email": "manhhunggts98@gmail.com",
+      "password": "hungngu1",
+      "id": "76cc82b4-51fc-41c1-8aeb-bd63eb200fde",
+      "createdAt": 1626344313511,
+      "updatedAt": 1626344313511
+    }
   ]
 }
